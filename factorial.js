@@ -1,4 +1,4 @@
-// Factorial using for loop
+//  Factorial using for loop
 
 function factorialCalc(number) {
   let factorial = 1;
